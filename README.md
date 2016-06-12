@@ -14,4 +14,4 @@ User can search for the images of apple, mango and banana... and all images rela
 
 #note
 1) You can use free or premium api.
-2)The file "load_image_bing.php" was created to fetch images using google free api. But compare to Bing Google queries were too much limited. You are free to work in this fie. 
+2) The file "load_image_bing.php" was created to fetch images using google free api. But compare to Bing Google queries were too much limited. You are free to work in this fie. 
